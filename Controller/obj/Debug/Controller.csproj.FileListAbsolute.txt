@@ -1,0 +1,5 @@
+C:\Users\Home\Desktop\Projects\snake-evolution\Controller\bin\Debug\Controller.exe.config
+C:\Users\Home\Desktop\Projects\snake-evolution\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\Projects\snake-evolution\Controller\obj\Debug\ControllerForm.Controller.resources
+C:\Users\Home\Desktop\Projects\snake-evolution\Controller\obj\Debug\Controller.Properties.Resources.resources
+C:\Users\Home\Desktop\Projects\snake-evolution\Controller\obj\Debug\Controller.csproj.GenerateResource.Cache
